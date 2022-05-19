@@ -1,0 +1,2 @@
+# guanabaraexercicios
+exercicios python
